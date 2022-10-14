@@ -1,4 +1,6 @@
-Quentin Navarre
-Bruno Pincet 
-Nicolas Carval
-Edouard Bertrand
+- Quentin Navarre
+- Bruno Pincet 
+- Nicolas Carval
+-
+-
+- Edouard Bertrand
